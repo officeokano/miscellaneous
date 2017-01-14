@@ -14,8 +14,6 @@ GitHub はそもそもソースコードを公開するものだが、ドキュ�
 
 しばらくは GitHub で公開したものを Medium にもコピーして併用することにする。しかしコピーもそれなりに手間がかかるので、 Medium の更新が滞ったら GitHub だけになったと考えてもらっていい。
 
-14 Jan 2017
-
 Written by [H Okano](https://github.com/officeokano)  
 h.okano@gmail.com /
 [twitter](https://twitter.com/messages/compose?recipient_id=10862) /

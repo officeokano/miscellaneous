@@ -1,0 +1,21 @@
+# Markdwon 記法を使う理由
+
+このところドキュメントを書くときはほとんど markdown 記法で書いている。人に渡す場合はその後体裁を整えて pdf とかにするのだが、自分用メモは markdown のままだ。
+
+Markdown はプレーンテキストに比べると文章の表現力が上がるが、 office open xml とかのフォーマットと比べるとできることが少ない。
+
+# できることが少ないということ
+
+できることが少ないということは、それだけ機種依存が少ないということだ。 Office open xml とかのフォーマットだとフォントを細かく指定したり、用紙サイズを指定したりできるのだが、それはつまり、他の端末で見た時にインストールされていないフォントが正しく表示できなかったり、指定したサイズよりも小さいディスプレイで表示すると画面からはみ出したりするということだ。
+
+Markdown でできることといえば、せいぜいタイトル行とか箇条書きとかリンクの指定などだ。ということは、表示する端末で都合の良いフォントを選んで、表示する画面のサイズに合わせて行を折り返すことができるということだ。
+
+# Markdown 以外を使う理由
+
+Markdown はプレーンテキストより表現力があり、生データそのままでも見やすく、機種依存もないが、印刷には向かない。体裁を整えて印刷したい場合、あるいは人に渡したい場合には markdown ではなく office open xml や pdf といったフォーマットのほうが適している。
+
+Written by [H Okano](https://github.com/officeokano)  
+h.okano@gmail.com /
+[twitter](https://twitter.com/messages/compose?recipient_id=10862) /
+[messenger](https://m.me/okano)  
+Released for free under the [MIT lisense](https://opensource.org/licenses/mit-license.php)

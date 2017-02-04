@@ -13,9 +13,3 @@ Markdown でできることといえば、せいぜいタイトル行とか箇�
 # Markdown 以外を使う理由
 
 Markdown はプレーンテキストより表現力があり、生データそのままでも見やすく、機種依存もないが、印刷には向かない。体裁を整えて印刷したい場合、あるいは人に渡したい場合には markdown ではなく office open xml や pdf といったフォーマットのほうが適している。
-
-Written by [H Okano](https://github.com/officeokano)  
-h.okano@gmail.com /
-[twitter](https://twitter.com/messages/compose?recipient_id=10862) /
-[messenger](https://m.me/okano)  
-Released for free under the [MIT license](https://opensource.org/licenses/mit-license.php)

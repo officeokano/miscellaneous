@@ -26,6 +26,10 @@ Debian 8 では安定版の公式リポジトリは KeePassX 0.4 のままだ。
 
 でインストールできる。 gdebi を使ってインストールしておけば、次からは apt で KeePassX 2.0 がアップデートの対象となる。
 
+## libgcrypt20 のエラーでインストールできない場合
+
+2017 年 2 月 5 日現在 KeePassX をインストールしようとすると ibgcrypt20 のバージョンが古いというエラーでインストールできない。その場合、 [Debianのパッケージサイト][5] から最新の libgcrypt20 を取得して gdebi でインストールするとうまくいく。
+
 # Ubuntu 16.04 で KeePassX 0.4 を利用する
 
 Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されていて、 通常 KeePassX 0.4 はインストールできない。他の環境の兼ね合いで KeePassX 0.4 を使いたい場合には [Ubuntu 14.04 用パッケージ][4]をダウンロードしてインストールする。
@@ -44,3 +48,4 @@ Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されてい�
 [2]: https://www.keepassx.org/
 [3]: https://packages.debian.org/sid/keepassx
 [4]: http://security.ubuntu.com/ubuntu/pool/universe/k/keepassx/keepassx_0.4.3+dfsg-0.1ubuntu1.14.04.1_amd64.deb
+[5]: https://packages.debian.org/sid/libs/libgcrypt20

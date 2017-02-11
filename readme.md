@@ -2,6 +2,7 @@
 
 雑記です。
 
+- [Facebook アカウントの削除方法](docs/delete-account-facebook.md) 14 Jun 2009
 - [クラウド時代のメモ術](docs/guide-cloud-note.md) 19 Aug 2016
 - [Windows Subsystem for Linux を試してみた](docs/guide-windows-10-linux.md) 1 Oct 2016
 - [Yahoo.comのアカウントを削除した話](docs/delete-account-yahoo-com.md) 12 Jan 2017

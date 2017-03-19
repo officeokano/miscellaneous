@@ -1,4 +1,4 @@
-この文章の大部分は新しい [GitHub Pages](https://officeokano.github.io/linux-guide-ja/) に移動しました。この乗法は更新されません。
+この文章の大部分は新しい [GitHub Pages](https://officeokano.github.io/linux-guide-ja/) に移動しました。この情報は更新されません。
 
 # 初心者のための Linux 入門
 

@@ -14,3 +14,4 @@
 - [Dropbox Paper 利用上の注意点](docs/2017/20170201.md) 1 Feb 2017
 - [1 年後に okanomail.com を終了します](docs/2017/20170211.md) 11 Feb 2017
 - [Debian 8 を debian 9 にアップグレードする](docs/2017/20170419.md) 19 Apr 2017
+- [Mastodon の公開範囲について](docs/2017/20170428.md) 28 Apr 2017

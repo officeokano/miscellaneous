@@ -3,8 +3,10 @@
 雑記です。
 
 - [Facebook アカウントの削除方法](docs/delete-account-facebook.md) 14 Jun 2009
+- [2016 年](docs/2016/readme.md)
 - [クラウド時代のメモ術](docs/2016/20160819.md) 19 Aug 2016
 - [Windows Subsystem for Linux を試してみた](docs/2016/20161001.md) 1 Oct 2016
+- [2017 年](docs/2017/readme.md)
 - [Yahoo.comのアカウントを削除した話](docs/2017/20170112-1.md) 12 Jan 2017
 - [Google+のアカウントを削除した話](docs/2017/20170112-2.md) 12 Jan 2017
 - [KeePassでパスワードを管理する](docs/2017/20170112-3.md) 12 Jan 2017

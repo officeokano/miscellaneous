@@ -14,3 +14,5 @@
 - [Pass でパスワードを管理する](20170601.md) 1 Jun 2017
 - [Google が Gmail のスキャンをやめる](20170624.md) 24 Jun 2017
 - [スマートスピーカーが普及しないとする考察](20171014.md) 14 Oct 2017
+- [Windows 10 fall creators update がやってきた](20171018.md) 18 Oct 2017
+- [Ubuntu が Unity をやめて Gnome になった](20171020.md) 20 Oct 2017

@@ -75,4 +75,5 @@
 ## 2026 年
 
 - [Windows で sudo コマンドが使えるようになった](docs/20260214.md) 14 Feb 2026
+- [YAML front matter の書き方を変えた](docs/20260215.md) 15 Feb 2026
 
